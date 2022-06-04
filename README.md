@@ -3,7 +3,10 @@ HTML / Javascript Fund Me (Full Stack / Front End)
 
 This is a minimalistic example what you can find in the metamask docs.
 Requirements
+ <img width="1440" alt="Screenshot 2022-06-04 at 11 44 44 PM" src="https://user-images.githubusercontent.com/66620586/172021430-3d62642b-6a8e-4eaa-8f8b-42ef23e74fab.png">
 
+ 
+ 
     git
         You'll know you've installed it right if you can run:
             git --version
@@ -24,6 +27,7 @@ For this demo project, we do not have a typescript edition. Please see the NextJ
 Optional Gitpod
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the clone this repo part.
+![Screenshot](https://user-images.githubusercontent.com/66620586/172021462-44f44bad-87f1-4f81-a7a2-acd65ebdc3e1.png)
 
 Open in Gitpod
 Quickstart
