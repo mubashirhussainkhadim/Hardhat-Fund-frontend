@@ -27,7 +27,7 @@ For this demo project, we do not have a typescript edition. Please see the NextJ
 Optional Gitpod
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the clone this repo part.
-![Screenshot](https://user-images.githubusercontent.com/66620586/172021462-44f44bad-87f1-4f81-a7a2-acd65ebdc3e1.png)
+
 
 Open in Gitpod
 Quickstart
