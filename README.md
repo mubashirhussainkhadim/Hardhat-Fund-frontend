@@ -34,8 +34,8 @@ Quickstart
 
     Clone the repo
 
-git clone https://github.com/mubashirhussainkhadim/Hardhat-Fund-me
-cd html-fund-me-fcc
+git clone https://github.com/mubashirhussainkhadim/Hardhat-Fund-frontend
+cd Hardhat-Fund-frontend
 
     Run the file.
 
@@ -62,7 +62,7 @@ Make sure you have the following installed:
     You'll need to open up a second terminal and run:
 
 git clone https://github.com/mubashirhussainkhadim/Hardhat-Fund-me
-cd hardhat-fund-me-fcc
+cd Hardhat-Fund-me
 yarn
 yarn hardhat node
 
